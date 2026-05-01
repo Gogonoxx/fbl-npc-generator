@@ -1,0 +1,58 @@
+{
+	"human": {
+		"label": "Human",
+		"key_attribute": "Empathy",
+		"kin_talent": "Adaptive",
+		"female": ["Garmelda", "Halinde", "Nirmena", "Sindra", "Talene"],
+		"male": ["Brynde", "Hardar", "Orovald", "Pasinder", "Vergevil"]
+	},
+	"elf": {
+		"label": "Elf",
+		"key_attribute": "Agility",
+		"kin_talent": "Inner Peace",
+		"female": ["Bleinella", "Erlimi", "Kriblenda", "Simene", "Vorovallia"],
+		"male": ["Dorrn", "Harakrond", "Orgodan", "Radnar", "Vergello"]
+	},
+	"half_elf": {
+		"label": "Half-Elf",
+		"key_attribute": "Wits",
+		"kin_talent": "Psychic Power",
+		"female": ["Hivena", "Holerva", "Korena", "Sonilia", "Trimellia"],
+		"male": ["Gaverin", "Galivan", "Horderan", "Jyrman", "Sandarme"]
+	},
+	"dwarf": {
+		"label": "Dwarf",
+		"key_attribute": "Strength",
+		"kin_talent": "True Grit",
+		"female": ["Hamhelda", "Hilewa", "Skorinda", "Torbenia", "Trindi"],
+		"male": ["Bodio", "Gandeman", "Hargamar", "Tyrgar", "Wulfred"]
+	},
+	"halfling": {
+		"label": "Halfling",
+		"key_attribute": "Empathy",
+		"kin_talent": "Hard to Catch",
+		"female": ["Dondella", "Gilina", "Lyila", "Mollia", "Sanarsi"],
+		"male": ["Arland", "Brollo", "Hender", "Horgeman", "Vilgo"]
+	},
+	"wolfkin": {
+		"label": "Wolfkin",
+		"key_attribute": "Agility",
+		"kin_talent": "Hunting Instincts",
+		"female": ["Alani", "Eiriia", "Gaeta", "Keawa", "Lagini"],
+		"male": ["Alane", "Auhone", "Jabari", "Kekoa", "Naako"]
+	},
+	"orc": {
+		"label": "Orc",
+		"key_attribute": "Strength",
+		"kin_talent": "Unbreakable",
+		"female": ["Gerina", "Hiria", "Okande", "Shala", "Sirsene"],
+		"male": ["Archa", "Gol-Garra", "Hrassa", "Hirod", "Nanga"]
+	},
+	"goblin": {
+		"label": "Goblin",
+		"key_attribute": "Agility",
+		"kin_talent": "Sneaky",
+		"female": ["Hargia", "Solga", "Someria", "Chilia", "Velatuia"],
+		"male": ["Gormer", "Groms", "Hemdan", "Hulmar", "Nissel"]
+	}
+}

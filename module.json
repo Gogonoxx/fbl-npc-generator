@@ -1,0 +1,46 @@
+{
+	"id": "fbl-npc-generator",
+	"title": "FBL NPC Generator",
+	"description": "Adds an NPC generator button next to the Adventure Site button in the Journal directory. Rolls a random NPC of any kin (or specific) using the typical NPCs and personal quirks tables from the Forbidden Lands GM Guide, plus a random kin-appropriate name from the Players Handbook.",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "12",
+		"verified": "13"
+	},
+	"authors": [
+		{
+			"name": "Gogonoxx"
+		}
+	],
+	"esmodules": [
+		"scripts/init.js"
+	],
+	"styles": [
+		"styles/fbl-npc-generator.css"
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"relationships": {
+		"systems": [
+			{
+				"id": "forbidden-lands",
+				"type": "system",
+				"compatibility": {
+					"minimum": "5.0.0"
+				}
+			}
+		],
+		"requires": [
+			{
+				"id": "fbl-core-game",
+				"type": "module",
+				"reason": "The Adventure Site generator from this module is the host the NPC button docks onto."
+			}
+		]
+	}
+}

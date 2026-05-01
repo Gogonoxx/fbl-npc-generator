@@ -1,0 +1,14 @@
+/* Reuse the system look — we only nudge spacing where Foundry's default
+   dialog form-groups crowd a long select list. */
+
+.fbl-npc-generator-form .form-group {
+	margin-bottom: 8px;
+}
+
+.fbl-npc-generator-form select {
+	width: 100%;
+}
+
+#create-fbl-npc {
+	margin-left: 0;
+}

@@ -1,0 +1,62 @@
+{
+	"bandit": {
+		"label": "Bandit",
+		"attributes": { "strength": 3, "agility": 3, "wits": 2, "empathy": 2 },
+		"skills": { "melee": 2, "marksmanship": 1, "survival": 2 },
+		"equipment": "Broadsword or axe, sling or short bow, leather armor, D6 copper, SIMPLE find."
+	},
+	"soldier": {
+		"label": "Soldier",
+		"attributes": { "strength": 4, "agility": 3, "wits": 3, "empathy": 2 },
+		"skills": { "endurance": 1, "melee": 2, "marksmanship": 2, "survival": 1 },
+		"equipment": "Broadsword or battleaxe, spear or long bow or heavy crossbow, large shield, leather armor or chainmail, open helmet, 2D6 copper, SIMPLE find."
+	},
+	"rider": {
+		"label": "Rider",
+		"attributes": { "strength": 3, "agility": 3, "wits": 3, "empathy": 2 },
+		"skills": { "melee": 2, "survival": 1, "animal_handling": 3 },
+		"equipment": "Broadsword or shortsword, dagger, studded leather armor, open helmet, SIMPLE find."
+	},
+	"thief": {
+		"label": "Thief",
+		"attributes": { "strength": 2, "agility": 4, "wits": 3, "empathy": 3 },
+		"skills": { "stealth": 2, "sleight_of_hand": 3, "move": 2, "melee": 1, "marksmanship": 1 },
+		"equipment": "Dagger, sling, leather armor, D6 silver, VALUABLE find."
+	},
+	"hunter": {
+		"label": "Hunter",
+		"attributes": { "strength": 3, "agility": 3, "wits": 3, "empathy": 2 },
+		"skills": { "melee": 1, "marksmanship": 1, "scouting": 2, "survival": 2, "performance": 1, "healing": 1 },
+		"equipment": "Dagger, longbow, leather armor, 2D6 copper, SIMPLE find."
+	},
+	"priest": {
+		"label": "Priest",
+		"attributes": { "strength": 2, "agility": 2, "wits": 3, "empathy": 4 },
+		"skills": { "lore": 2, "manipulation": 2, "performance": 1, "healing": 1 },
+		"equipment": "Staff, grimoire, D6 silver, VALUABLE find."
+	},
+	"trader": {
+		"label": "Trader",
+		"attributes": { "strength": 3, "agility": 3, "wits": 3, "empathy": 4 },
+		"skills": { "lore": 1, "insight": 2, "manipulation": 2 },
+		"equipment": "Dagger or shortsword, 2D6 silver, VALUABLE find."
+	},
+	"minstrel": {
+		"label": "Minstrel",
+		"attributes": { "strength": 2, "agility": 3, "wits": 3, "empathy": 4 },
+		"skills": { "lore": 1, "insight": 1, "manipulation": 2, "performance": 2 },
+		"equipment": "Instrument, dagger, D6 silver, VALUABLE find."
+	},
+	"sorcerer": {
+		"label": "Sorcerer",
+		"attributes": { "strength": 2, "agility": 2, "wits": 4, "empathy": 4 },
+		"skills": { "lore": 2, "insight": 2, "manipulation": 2 },
+		"equipment": "Staff, grimoire, D6 silver, VALUABLE find. Knows Path of Runes, Stone, Blood or Death (2 talent)."
+	},
+	"villager": {
+		"label": "Villager",
+		"attributes": { "strength": 3, "agility": 3, "wits": 3, "empathy": 3 },
+		"skills": { "endurance": 1, "crafting": 2 },
+		"equipment": "Tools, D6 copper."
+	}
+}

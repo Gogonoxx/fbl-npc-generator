@@ -1,0 +1,18 @@
+{
+	"FBLNPCGEN.BUTTON.GENERATE": "Generate NPC",
+	"FBLNPCGEN.DIALOG.TITLE": "Generate NPC",
+	"FBLNPCGEN.DIALOG.DESCRIPTION": "Roll up an NPC. Each dropdown can stay on Random.",
+	"FBLNPCGEN.DIALOG.KIN": "Kin",
+	"FBLNPCGEN.DIALOG.SEX": "Sex",
+	"FBLNPCGEN.DIALOG.TYPE": "NPC Type",
+	"FBLNPCGEN.DIALOG.QUIRKS": "Personal Quirks",
+	"FBLNPCGEN.DIALOG.QUIRKS_HINT": "Roll three independent D66s (occupation, characteristic, quirk).",
+	"FBLNPCGEN.DIALOG.OPEN_SHEET": "Open Sheet After Creation",
+	"FBLNPCGEN.DIALOG.RANDOM": "Random",
+	"FBLNPCGEN.DIALOG.FEMALE": "Female",
+	"FBLNPCGEN.DIALOG.MALE": "Male",
+	"FBLNPCGEN.DIALOG.ROLL": "Roll",
+	"FBLNPCGEN.DIALOG.CANCEL": "Cancel",
+	"FBLNPCGEN.NOTIFY.GM_ONLY": "Only the GM can generate NPCs.",
+	"FBLNPCGEN.NOTIFY.LOAD_FAILED": "Could not load NPC generator data."
+}
